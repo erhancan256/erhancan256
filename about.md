@@ -1,1 +1,3 @@
-Tek başına yıkılmamış bir cumhuriyet
+<span>
+  Tek başına yıkılmamış bir cumhuriyet
+</span>
